@@ -1,4 +1,5 @@
 Đây là file week1 
 Thuộc nhánh week1
-Thuộc quyền sở hữu week1
+Thuộc quyền sở hữu week1 và main
+
 
