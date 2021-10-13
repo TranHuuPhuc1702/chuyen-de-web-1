@@ -1,8 +1,2 @@
 Đây là file week1 
-<<<<<<< ours
 Thuộc nhánh week1 mà thôi
-
-
-=======
-Thuộc nhánh week1 và main
->>>>>>> theirs
