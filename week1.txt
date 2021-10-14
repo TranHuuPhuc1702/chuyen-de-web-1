@@ -1,2 +1,1 @@
-Đây là file week1 
-Thuộc nhánh week1 và main Phuc
+Đây là file week1 Chỉ thuộc nhanh main
