@@ -1,2 +1,2 @@
 Đây là file week1 
-chỉ thuộc nhánh main
+Thuộc nhánh main version 2.1
