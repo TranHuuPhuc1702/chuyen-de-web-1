@@ -1,2 +1,2 @@
 Đây là file week1 
-chỉ thuộc nhánh week1
+chỉ thuộc nhánh main
