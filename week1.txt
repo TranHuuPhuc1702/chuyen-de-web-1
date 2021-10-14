@@ -1,1 +1,2 @@
-Đây là file week1 Chỉ thuộc nhanh main
+Đây là file week1 
+chỉ thuộc nhánh week1
